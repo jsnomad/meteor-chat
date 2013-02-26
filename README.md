@@ -1,0 +1,1 @@
+Simple chat built with Meteor and Twitter Bootstrap.
